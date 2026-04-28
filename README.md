@@ -27,6 +27,23 @@ Se ha ejecutado una quema del **10% del total supply** (100,000 ZAARD) para aseg
 El **99.50%** de los tokens del pool de liquidez (Cake-LP) están bloqueados por un periodo de **1 año**.
 * **Certificado oficial:** [Mudra Lock Certificate](https://mudra.website/?certificate=yes&type=0&lp=0x38666399a7017c6fb5b624d491bb96a4a736d2bb)
 
+
+## 🔒 Pruebas de Seguridad On-Chain
+
+### 1. Quema de Suministro (Burn)
+Se ha ejecutado una quema del **10% del total supply** (100,000 ZAARD) para asegurar un modelo deflacionario.
+
+![Prueba de Quema](Screenshot_20260426-170504_1.png)
+
+* **Hash de Transacción:** [`0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272`](https://bscscan.com/tx/0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272)
+
+### 2. Bloqueo de Liquidez (LP Lock)
+El **99.50%** de los tokens del pool de liquidez (Cake-LP) están bloqueados por un periodo de **1 año**.
+
+![Certificado Mudra](Screenshot_20260428-023846_1.png)
+
+* **Certificado oficial:** [Mudra Lock Certificate](https://mudra.website/?certificate=yes&type=0&lp=0x38666399a7017c6fb5b624d491bb96a4a736d2bb)
+
 ---
 
 ## 🚀 Ecosistema ZAARD
