@@ -30,6 +30,20 @@ El **99.50%** de los tokens del pool de liquidez (Cake-LP) están bloqueados por
 
 ## 🔒 Pruebas de Seguridad On-Chain
 
+## 🛡️ Auditoría de Seguridad (GoPlus)
+
+Para garantizar la transparencia de **ZAARD INNOVATION**, a continuación se detalla el análisis de seguridad del contrato inteligente:
+
+<p align="center">
+  <img src="Screenshot_20260502-182635.jpg" width="100%" alt="Auditoría Parte 1">
+  <img src="Screenshot_20260502-182649.png" width="100%" alt="Auditoría Parte 2">
+  <img src="Screenshot_20260502-182653.png" width="100%" alt="Auditoría Parte 3">
+</p>
+
+> [!TIP]
+> Puedes verificar estos resultados en tiempo real visitando [GoPlus Security](https://gopluslabs.io/).
+
+
 ### 1. Quema de Suministro (Burn)
 Se ha ejecutado una quema del **10% del total supply** (100,000 ZAARD) para asegurar un modelo deflacionario.
 
