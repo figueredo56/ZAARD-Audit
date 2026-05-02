@@ -19,6 +19,22 @@ Este repositorio contiene la documentación técnica, pruebas de seguridad y est
 
 ## 🔒 Pruebas de Seguridad On-Chain
 
+## 🛡️ Análisis Detallado de Seguridad (GoPlus)
+
+A continuación se presentan las capturas detalladas del análisis de seguridad on-chain del protocolo ZAARD:
+
+<p align="center">
+  <img src="Screenshot_20260502-182635_1.png" width="100%" alt="Auditoría GoPlus Parte 1">
+  <img src="Screenshot_20260502-182649_1.png" width="100%" alt="Auditoría GoPlus Parte 2">
+  <img src="Screenshot_20260502-182653_1.png" width="100%" alt="Auditoría GoPlus Parte 3">
+</p>
+
+---
+
+### 📊 Otros Registros de Transparencia
+* **Quema de Tokens:** Verificado.
+* **Bloqueo de Liquidez (Mudra):** 99.50% asegurado.
+
 ### 1. Quema de Suministro (Burn)
 Se ha ejecutado una quema del **10% del total supply** (100,000 ZAARD) para asegurar un modelo deflacionario.
 * **Hash de Transacción:** [`0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272`](https://bscscan.com/tx/0x9a9e55763920a9d007e71a5c85cbb9f4c5c23ade96f484d1e473eddd205bf272)
