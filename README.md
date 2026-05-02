@@ -21,6 +21,14 @@ Este repositorio contiene la documentación técnica, pruebas de seguridad y est
 
 ## 🛡️ Análisis Detallado de Seguridad (GoPlus)
 
+### 🔗 Verificación en Tiempo Real
+Para ver el reporte de seguridad actualizado y dinámico, haz clic en el siguiente enlace:
+
+[**Consultar Auditoría en GoPlus Security**](https://console.gopluslabs.io/token-security/56/0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb)
+
+---
+*Nota: Este enlace apunta directamente al contrato `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb` en la red BSC.*
+
 A continuación se presentan las capturas detalladas del análisis de seguridad on-chain del protocolo ZAARD:
 
 <p align="center">
