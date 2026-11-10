@@ -77,33 +77,33 @@ El ecosistema **ZARD** opera bajo estrictos protocolos criptográficos y normati
 | :--- | :---: | :--- |
 | **Honeypot Test** | ✅ **SAFE** | El token es 100% vendible. Estructura de tarifas `0% Buy / 0% Sell` (Zero-Tax Standard)[cite: 1, 2, 3, 4, 5, 6, 7]. |
 | **Source Code** | ✅ **VERIFIED** | Contrato público, transparente y verificado directamente en BscScan[cite: 1, 2, 3, 4, 5, 6, 7]. |
-| **Ownership Status** | 🔒 **SECURE** | Propiedad permanentemente renunciada. Ausencia absoluta de funciones maliciosas o *mint parameters*[cite: 1, 2, 3, 4, 5, 6, 7]. |
-| **Liquidity Lock** | 🔒 **LOCKED** | Bloqueo de liquidez verificado a largo plazo mediante gestores especializados de confianza (*Mudra Manager / PinkLock*)[cite: 1, 2, 3, 4, 5, 6, 7]. |
+| **Ownership Status** | 🔒 **SECURE** | Propiedad permanentemente renunciada. Ausencia absoluta de funciones maliciosas o *mint parameters*
+| **Liquidity Lock** | 🔒 **LOCKED** | Bloqueo de liquidez verificado a largo plazo mediante gestores especializados de confianza (*Mudra Manager / PinkLock*)
 
-> *Nota de Transparencia del Score:* El puntaje técnico refleja un proyecto en fase de escalabilidad avanzada. Los puntos pendientes corresponden a la liquidez inicial y al suministro alojado en carteras estratégicas del creador, destinadas exclusivamente al sistema de recompensas del ecosistema **ZAARD ARCADE** y quema programada[cite: 1, 2, 3, 4, 5, 6, 7].
+> *Nota de Transparencia del Score:* El puntaje técnico refleja un proyecto en fase de escalabilidad avanzada. Los puntos pendientes corresponden a la liquidez inicial y al suministro alojado en carteras estratégicas del creador, destinadas exclusivamente al sistema de recompensas del ecosistema **ZAARD ARCADE** y quema programada
 
 ---
 
 ## 🛡️ Pruebas de Seguridad On-Chain & Análisis GoPlus
 
-A continuación se presenta el informe detallado de detección de seguridad automatizada extraído directamente de los escáneres del protocolo para el contrato oficial **`0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`**[cite: 1, 2, 3, 4, 5, 6, 7]:
+A continuación se presenta el informe detallado de detección de seguridad automatizada extraído directamente de los escáneres del protocolo para el contrato oficial **`0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 
 <div align="center">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1793403729787-08f2f9a1843dbe09507205aea1768c8a.png" alt="GoPlus Security Detection Report" width="95%" style="border-radius: 12px; border: 1px solid #00f2fe; box-shadow: 0 0 20px rgba(0,242,254,0.3);">
 </div>
 
-* **Verificación de Código Fuente:** El contrato inteligente no contiene código oculto, funciones *proxy* modificables, funciones de acuñación ilimitada (*mint*), ni mecanismos de modificación de impuestos arbitrarios[cite: 1, 2, 3, 4, 5, 6, 7].
-* **Protección Anti-Whale & Cooldown:** No existen restricciones artificiales de bloqueo por tiempo (*trading cooldown*) ni límites abusivos de transferencia por billetera, garantizando la libre circulación de valor en el mercado[cite: 1, 2, 3, 4, 5, 6, 7].
+* **Verificación de Código Fuente:** El contrato inteligente no contiene código oculto, funciones *proxy* modificables, funciones de acuñación ilimitada (*mint*), ni mecanismos de modificación de impuestos arbitrarios
+* **Protección Anti-Whale & Cooldown:** No existen restricciones artificiales de bloqueo por tiempo (*trading cooldown*) ni límites abusivos de transferencia por billetera, garantizando la libre circulación de valor en el mercado
 
 ---
 
 ## 🌐 Especificaciones del Ecosistema ZARD
 
-* **Blockchain:** Binance Smart Chain (BSC Mainnet - Chain ID: `56`)[cite: 1, 2, 3, 4, 5, 6, 7]
-* **Contract Address (CA):** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`[cite: 1, 2, 3, 4, 5, 6, 7]
+* **Blockchain:** Binance Smart Chain (BSC Mainnet - Chain ID: `56`)
+* **Contract Address (CA):** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 * **Estándar:** BEP-20 (18 Decimales)[cite: 1, 2, 3, 4, 5, 6, 7]
-* **Arquitectura de Custodia:** ZAARD XENOCRYPT[cite: 1, 2, 3, 4, 5, 6, 7]
-* **Lead Developer / Fundador:** Panga (ZAARD INNOVATION)[cite: 1, 2, 3, 4, 5, 6, 7]
+* **Arquitectura de Custodia:** ZAARD XENOCRYPT
+* **Lead Developer / Fundador:** Panga (ZAARD INNOVATION)
 
 ---
 
