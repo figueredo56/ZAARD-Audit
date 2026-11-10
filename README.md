@@ -69,14 +69,14 @@ A continuación se presentan las capturas detalladas del análisis de seguridad 
 
 ## 🔒 Certificación de Custodia & Permisos de Auditoría
 
-El ecosistema **ZARD** opera bajo estrictos protocolos criptográficos y normativas de cumplimiento técnico certificadas por **ZAARD XENOCRYPT**. El contrato inteligente ha superado con éxito las pruebas de validación de seguridad on-chain, garantizando total transparencia, inmutabilidad y protección rigurosa para los inversores y tenedores de activos[cite: 1, 2, 3, 4, 5, 6, 7].
+El ecosistema **ZARD** opera bajo estrictos protocolos criptográficos y normativas de cumplimiento técnico certificadas por **ZAARD XENOCRYPT**. El contrato inteligente ha superado con éxito las pruebas de validación de seguridad on-chain, garantizando total transparencia, inmutabilidad y protección rigurosa para los inversores y tenedores de activos.
 
 ### 📋 Resumen Técnico de Auditoría On-Chain
 
 | Análisis de Seguridad | Resultado Oficial | Detalle Técnico del Protocolo |
 | :--- | :---: | :--- |
-| **Honeypot Test** | ✅ **SAFE** | El token es 100% vendible. Estructura de tarifas `0% Buy / 0% Sell` (Zero-Tax Standard)[cite: 1, 2, 3, 4, 5, 6, 7]. |
-| **Source Code** | ✅ **VERIFIED** | Contrato público, transparente y verificado directamente en BscScan[cite: 1, 2, 3, 4, 5, 6, 7]. |
+| **Honeypot Test** | ✅ **SAFE** | El token es 100% vendible. Estructura de tarifas `0% Buy / 0% Sell` (Zero-Tax Standard)|
+| **Source Code** | ✅ **VERIFIED** | Contrato público, transparente y verificado directamente en BscScan |
 | **Ownership Status** | 🔒 **SECURE** | Propiedad permanentemente renunciada. Ausencia absoluta de funciones maliciosas o *mint parameters*
 | **Liquidity Lock** | 🔒 **LOCKED** | Bloqueo de liquidez verificado a largo plazo mediante gestores especializados de confianza (*Mudra Manager / PinkLock*)
 
@@ -101,7 +101,7 @@ A continuación se presenta el informe detallado de detección de seguridad auto
 
 * **Blockchain:** Binance Smart Chain (BSC Mainnet - Chain ID: `56`)
 * **Contract Address (CA):** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
-* **Estándar:** BEP-20 (18 Decimales)[cite: 1, 2, 3, 4, 5, 6, 7]
+* **Estándar:** BEP-20 (18 Decimales)
 * **Arquitectura de Custodia:** ZAARD XENOCRYPT
 * **Lead Developer / Fundador:** Panga (ZAARD INNOVATION)
 
