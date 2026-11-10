@@ -42,15 +42,16 @@ A continuación se presentan las capturas detalladas del análisis de seguridad 
 
 ## 🚀 Ecosistema ZAARD
 * **Blockchain:** Binance Smart Chain (BSC)
-* **Contrato:** `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb`
+* **Contrato:** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 * **Desarrollador:** Panga / ZAARD INNOVATION
-* **Audit Link:** [Token Sniffer Live Report](https://tokensniffer.com/token/bsc/0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb)
+* **Audit Link:** [Token Sniffer Live Report](https://tokensniffer.com/token/bsc/0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38)
 
 ---
 
 
 * **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
-* **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
+* **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
+* **☺️ Telegram   (TG.):** [@ZAARD_ALX](https://t.me/+Cjo5z_yXcdwzYjM5)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
 Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
