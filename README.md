@@ -121,12 +121,12 @@ A continuación se presenta el informe detallado de detección de seguridad auto
 ---
 
 
-* **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
+* **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/DAIoficial/)
 * **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
 * **☺️ Telegram   (TG.):** [@ZAARD_ALX](https://t.me/+Cjo5z_yXcdwzYjM5)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
-Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
+Desarrollado por **Panga** - Founder de ZAARD INNOVATION.
 
 ---
 *Desplegado con éxito para la comunidad de ZAARD INNOVATION.*
